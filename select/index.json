@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "少年時代",
+  "base_artist": "suis from Yorushika",
+  "createdAt": "2025-12-07T12:37:25.733777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少年時代 ((Remastered 2018))",
+      "artist": "井上陽水",
+      "has_synced": true,
+      "path": "select/01_少年時代_((Remastered_2018))_井上陽水.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "井上陽水",
+      "has_synced": true,
+      "path": "select/02_少年時代_井上陽水.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_少年時代_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "谷村新司/アリス",
+      "has_synced": false,
+      "path": "select/04_少年時代_谷村新司_アリス.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_少年時代_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少年時代 - SHOUNEN JIDAI",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/06_少年時代_-_SHOUNEN_JIDAI_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/07_少年時代_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "May J.",
+      "has_synced": true,
+      "path": "select/08_少年時代_May_J..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Ko Shibasaki",
+      "has_synced": false,
+      "path": "select/09_少年時代_Ko_Shibasaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/10_少年時代_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "少年時代 - Remastered 2018",
+      "artist": "Yosui Inoue",
+      "has_synced": true,
+      "path": "select/11_少年時代_-_Remastered_2018_Yosui_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "夏川 りみ",
+      "has_synced": true,
+      "path": "select/12_少年時代_夏川_りみ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/13_少年時代_IU.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "YOUMOU TO OHANA",
+      "has_synced": true,
+      "path": "select/14_少年時代_YOUMOU_TO_OHANA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "YOUMOU TO OHANA",
+      "has_synced": true,
+      "path": "select/15_少年時代_YOUMOU_TO_OHANA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Suguru Itou",
+      "has_synced": false,
+      "path": "select/16_少年時代_Suguru_Itou.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/17_少年時代_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Rimi Natsukawa",
+      "has_synced": true,
+      "path": "select/18_少年時代_Rimi_Natsukawa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "少年時代",
+      "artist": "Kou Shibasaki",
+      "has_synced": false,
+      "path": "select/19_少年時代_Kou_Shibasaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年時代",
+      "artist": "suis from Yorushika",
+      "has_synced": false,
+      "path": "select/pl_01_少年時代_suis_from_Yorushika.txt"
+    }
+  ]
+}
